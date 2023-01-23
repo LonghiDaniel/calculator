@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/keyworksti/Project%20Integration%20Github/_apis/build/status/LonghiDaniel.calculator?branchName=master)](https://dev.azure.com/keyworksti/Project%20Integration%20Github/_build/latest?definitionId=43&branchName=master)
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
